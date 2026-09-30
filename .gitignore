@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+coverage.xml
+htmlcov/
+models/*.onnx
+models/*.bin
+models/*.json
+!models/README.md
+submission/~$*
+*.log
+.DS_Store
+Thumbs.db
+
